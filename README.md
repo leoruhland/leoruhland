@@ -18,6 +18,12 @@ Feel free to check out my projects and contact me if you have any questions or w
 - Passion for open-source software
 - Interest in researching new technologies and possibilities
 - Strong capacity for self-learning
+
+## 📧 Contact
+
+- Email: leo@ruhland.dev
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/leoruhland)
+
 ## 📚 Projects
 
 ### FutDados
