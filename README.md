@@ -1,4 +1,4 @@
-# 🙋‍♂️ About Me
+# <img src="/shield.svg" alt="Ruhland Dev" style="height: 36px; vertical-align:top; "/>  About Me
 
 
 I'm a front-end developer with a focus on [Angular](https://angular.io/) and [Ionic Framework](https://ionicframework.com/). I have a passion for building web and mobile applications that are fast, scalable, and easy to use. I am also interested in researching new technologies and possibilities and have a strong capacity for self-learning.
@@ -26,45 +26,3 @@ Feel free to check out my projects and contact me if you have any questions or w
 
 - Email: leo@ruhland.dev
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/leoruhland)
-
-## 📚 Projects
-
-### FutDados
-
-> FutDados is the application for those who want to have the statistics of the series A of the Brazilian football league in the palm of their hand. Follow the history of results, pro goals (GP), goals against (GC), goal difference (SG), field command, attacks, defense and all the performance data of the Brazilian teams to make the best predictions and guesses!
-
-I was responsible for full-stack development, including the front-end user interface built with StencilJS and Ionic Framework.
-
-WIP Project | StencilJS, Ionic Framework, Capacitor | [PWA](https://futdados.app) [App Store](https://play.google.com/store/apps/details?id=app.futdados.mobile) [Google Play](https://play.google.com/store/apps/details?id=app.futdados.mobile)
-
----
-
-### Encaixa
-
-> Empowering communities with financial dignity. The HOPE in Hand app allows clients to connect with financial coaches for free of cost. The clients can use the in-built chat feature to communicate with coaches or can initiate phone calls from within the app.
-
-I was responsible for 
-
-December 2022 | Angular, Ionic Framework, Capacitor | [App Store](#) [Google Play](#)
-
----
-
-### KetoLife
-
-> The most frequent doubt in the ketogenic diet: what to eat? And the main: HOW much to eat?
-> KetoLife is the combination of the need to adapt to your energy needs estimates the best combinations of ketogenic menu!
-> You choose the menus that you like best and we calculate the quantities according to your personal information!
-
-I was responsible for full-stack development, including the front-end user interface built with Angular and Ionic Framework. I also implemented in-app purchases feature for the subscriptions plans.
-
-April 2022 | Angular, Ionic Framework, In-app Purchases, Capacitor | [App Store](https://apps.apple.com/br/app/keto-life/id1446776940) [Google Play](https://play.google.com/store/apps/details?id=com.graycompany.ketolife)
-
----
-
-### HOPE In Hand
-
-> Empowering communities with financial dignity. The HOPE in Hand app allows clients to connect with financial coaches for free of cost. The clients can use the in-built chat feature to communicate with coaches or can initiate phone calls from within the app.
-
-I was responsible for full-stack development, including the front-end user interface built with Angular and Ionic Framework. I also implemented in-app purchases for subscription plans.
-
-December 2022 | Angular, Ionic Framework, In-app Purchases, Capacitor | [App Store](#) [Google Play](#)
