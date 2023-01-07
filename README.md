@@ -3,7 +3,7 @@
 
 I'm a front-end developer with a focus on [Angular](https://angular.io/) and [Ionic Framework](https://ionicframework.com/). I have a passion for building web and mobile applications that are fast, scalable, and easy to use. I am also interested in researching new technologies and possibilities and have a strong capacity for self-learning.
 
-I am 35 years old and have more than 15 years of experience developing software. I have experience with back-end development in NodeJS, including frameworks such as [NestJS](https://nestjs.com/), [Express](https://expressjs.com/), and libraries like [TypeORM](https://typeorm.io/), [Socket.io](https://socket.io/), and [Redis](https://redis.io/).
+I am 35 years old and have more than 15 years of experience developing software. I have experience with back-end development in NodeJS, including frameworks such as [NestJS](https://nestjs.com/), [Express](https://expressjs.com/), and tools/libraries like [TypeORM](https://typeorm.io/), [Socket.io](https://socket.io/), and [Redis](https://redis.io/).
 
 Currently, I live in [Florianópolis, Brazil](https://www.google.com/maps/place/Florian%C3%B3polis,+SC/). In my spare time, I like to explore new technologies and tools that can improve my development workflow. Some of my current favorites include [Stenciljs](https://stenciljs.com/), [Capacitor](https://capacitor.ionicframework.com/), and [Nx Workspaces](https://nx.dev/).
 
