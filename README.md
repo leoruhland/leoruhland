@@ -1,4 +1,4 @@
-# <img src="/shield.svg" alt="Ruhland Dev" style="height: 36px; vertical-align:top; "/>  About Me
+# <img src="/shield.svg" alt="Ruhland Dev" style="height: 44px; vertical-align:top; "/>  About Me
 
 
 I'm a front-end developer with a focus on [Angular](https://angular.io/) and [Ionic Framework](https://ionicframework.com/). I have a passion for building web and mobile applications that are fast, scalable, and easy to use. I am also interested in researching new technologies and possibilities and have a strong capacity for self-learning.
