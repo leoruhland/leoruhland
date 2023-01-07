@@ -25,4 +25,4 @@ Feel free to check out my projects and contact me if you have any questions or w
 ## 📧 Contact
 
 - Email: leo@ruhland.dev
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/leoruhland)
+- LinkedIn: [Leonardo Ruhland](https://www.linkedin.com/in/leoruhland)
