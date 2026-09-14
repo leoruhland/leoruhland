@@ -1,15 +1,14 @@
-# <img src="/shield.svg" alt="Ruhland Dev" style="height: 44px; vertical-align:top; "/>  About Me
+# <img src="/shield.svg" alt="Ruhland Dev" style="height: 32px; vertical-align:top; "/>  About Me
 
+I'm a Senior Software Engineer with 20+ years of experience building and evolving software products across web, mobile, and backend environments.
 
-I'm a front-end developer with a focus on [Angular](https://angular.io/) and [Ionic Framework](https://ionicframework.com/). I have a passion for building web and mobile applications that are fast, scalable, and easy to use. I am also interested in researching new technologies and possibilities and have a strong capacity for self-learning.
+My main focus today is the TypeScript ecosystem, working extensively with Node.js, NestJS, Angular, and modern software architecture. Over the years, I've worked on products from early-stage development to mature platforms, taking part in architecture, technical planning, implementation, automated testing, deployment, monitoring, and long-term maintenance.
 
-I am 35 years old and have more than 15 years of experience developing software. I have experience with back-end development in NodeJS, including frameworks such as [NestJS](https://nestjs.com/), [Express](https://expressjs.com/), and tools/libraries like [TypeORM](https://typeorm.io/), [Socket.io](https://socket.io/), and [Redis](https://redis.io/).
+I enjoy working on complex systems where technical decisions have a real impact on the product. I particularly like designing pragmatic architectures, improving existing platforms, solving performance and scalability challenges, and turning business requirements into maintainable software.
 
-Currently, I live in [Florianópolis, Brazil](https://www.google.com/maps/place/Florian%C3%B3polis,+SC/). In my spare time, I like to explore new technologies and tools that can improve my development workflow. Some of my current favorites include [Stenciljs](https://stenciljs.com/), [Capacitor](https://capacitor.ionicframework.com/), and [Nx Workspaces](https://nx.dev/).
+I've worked with startups, international teams, SaaS platforms, web and mobile applications, as well as independent projects. I’m comfortable working across the stack, but my strongest interests today are backend engineering, software architecture, distributed systems, and the broader TypeScript ecosystem.
 
-> Ionic Framework | StencilJS | CapacitorJS | Angular | NestJS | TypeScript | NX Workspaces | PWA
-
-Feel free to check out my projects and contact me if you have any questions or want to collaborate on something interesting.
+I’m also constantly experimenting with new technologies and building side projects — not just to follow trends, but to understand where they can genuinely simplify development or improve software design.
 
 ## 💻 Skills
 
