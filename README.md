@@ -1,15 +1,23 @@
-# <img src="/shield.svg" alt="Ruhland Dev" style="height: 32px; vertical-align:top; "/>  About Me
+## About Me
 
-I'm a Senior Software Engineer with 20+ years of experience building and evolving software products across web, mobile, and backend environments.
+I'm a Senior Software Engineer with 20+ years of experience building software across web, mobile, and backend environments.
 
-My main focus today is the TypeScript ecosystem, working extensively with Node.js, NestJS, Angular, and modern software architecture. Over the years, I've worked on products from early-stage development to mature platforms, taking part in architecture, technical planning, implementation, automated testing, deployment, monitoring, and long-term maintenance.
+I work mainly within the TypeScript ecosystem, with a strong focus on **Node.js, NestJS, Angular, software architecture, and full-stack product development**.
 
-I enjoy working on complex systems where technical decisions have a real impact on the product. I particularly like designing pragmatic architectures, improving existing platforms, solving performance and scalability challenges, and turning business requirements into maintainable software.
+Over the years, I've worked on everything from small independent projects to production SaaS platforms, taking part in the entire software lifecycle — architecture, technical planning, development, automated testing, deployment, monitoring, and maintenance.
 
-I've worked with startups, international teams, SaaS platforms, web and mobile applications, as well as independent projects. I’m comfortable working across the stack, but my strongest interests today are backend engineering, software architecture, distributed systems, and the broader TypeScript ecosystem.
+I'm particularly interested in:
 
-I’m also constantly experimenting with new technologies and building side projects — not just to follow trends, but to understand where they can genuinely simplify development or improve software design.
+- TypeScript and modern JavaScript runtimes
+- Backend and distributed systems
+- Software architecture
+- SaaS products
+- Developer tooling
+- Web and mobile applications
+- Open-source software
+- Experimenting with new technologies
 
+I enjoy building things from scratch, simplifying complex systems, and exploring better ways to design and ship software.
 ## 💻 Skills
 
 - Proficient in [Angular](https://angular.io/), [Ionic Framework](https://ionicframework.com/), and [TypeScript](https://www.typescriptlang.org/)
