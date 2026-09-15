@@ -1,4 +1,6 @@
-## About Me
+# Leonardo Ruhland
+
+**Senior Software Engineer · TypeScript · Node.js · NestJS · Angular · Software Architecture**
 
 I'm a Senior Software Engineer with 20+ years of experience building software across web, mobile, and backend environments.
 
@@ -18,6 +20,25 @@ I'm particularly interested in:
 - Experimenting with new technologies
 
 I enjoy building things from scratch, simplifying complex systems, and exploring better ways to design and ship software.
+
+## Tech
+
+**Languages & Runtime**
+
+TypeScript · JavaScript · Node.js · Bun
+
+**Backend**
+
+NestJS · REST APIs · WebSockets · Queues · Redis · SQL
+
+**Frontend**
+
+Angular · PWA · Web Applications
+
+**Architecture & Engineering**
+
+Software Architecture · Distributed Systems · Automated Testing ·
+Observability · CI/CD · Monorepos
 
 ## 📧 Contact
 
